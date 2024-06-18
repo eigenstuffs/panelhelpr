@@ -1,0 +1,11 @@
+Package: panelhelpr
+Title: Easily sort panel data into pre- and post-treatment matrices.
+Date: 2024-06-18
+Version: 0.1
+Author: Branden Bohrnsen <brandenb@ucla.edu>
+Maintainer: Branden Bohrnsen <brandenb@ucla.edu>
+Description: Splits panel data (columns as time and rows as units) into horizontal and vertical pre- and post- treatment matrices.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
